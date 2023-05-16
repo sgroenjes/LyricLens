@@ -1,0 +1,7 @@
+nltk
+spacy
+lyricsgenius
+flask
+fastapi
+requests
+gunicorn
